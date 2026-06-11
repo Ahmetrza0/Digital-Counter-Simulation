@@ -24,4 +24,5 @@ https://github.com/user-attachments/assets/e066a226-f1fa-454a-9193-2f9c2b556e99
 * 1x Dual 4-Input NAND gate
 * 1x Quad AND gate
 * 1x Quad OR gate
+* 7x 330 Ω Resistor
 * 1 Hz Square Wave Function Generator
