@@ -11,7 +11,10 @@ Utilized a 7-segment decoder to translate the binary flip-flop outputs into read
 Due to inherent display limitations in the specific 7-segment decoder variation used, certain decimal values did not render correctly. To resolve this, I engineered a supplemental combinational logic circuit (with Quad AND & Quad OR gates) to override these hardware constraints and ensure an accurate display.
 
 
-https://github.com/user-attachments/assets/3c91df24-f33b-49c8-84f9-5cd311f75a78
+
+https://github.com/user-attachments/assets/e066a226-f1fa-454a-9193-2f9c2b556e99
+
+
 
 ## Components Used
 * 2x Dual J-K Flip-Flops
