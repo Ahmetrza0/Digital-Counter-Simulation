@@ -3,6 +3,8 @@
 <img width="1491" height="645" alt="Counting Clock Display (2)" src="https://github.com/user-attachments/assets/5fcad676-1a2a-43ba-a7e1-dc47e6c611f7" />
 <br>
 <br>
+<br>
+<br>
 A fully functional simulation of a digital counter designed to process clock pulses into a decimal output, featuring custom-engineered logic to adapt to component constraints. (See the simulation below)
 
 Built using sequential logic, utilizing dual J-K Flip-Flops to handle the binary counting sequence.
